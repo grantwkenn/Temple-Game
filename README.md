@@ -3,7 +3,7 @@
 ## Student Name : Grant Kennedy
 ## Student ID : 913056513
 
-A single player Temple Game application implemented in Java for CSC 413: Software Development at San Francisco State University
+"Pyramid Panic" or "Temple" is a single player puzzle game application implemented in Java for CSC 413: Software Development at San Francisco State University
 
 Use WASD controls for movement. After removing the sword from the temple, the player's visibility is reduced to a small radius. Hold spacebar restore your visibility while draining your score. Make it to then end of the level by avoiding all enemies, and collect items to maximize player score.
 
